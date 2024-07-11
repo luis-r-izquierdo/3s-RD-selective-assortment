@@ -20,10 +20,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       835,         17]
-NotebookDataLength[   1254776,      22779]
-NotebookOptionsPosition[   1251298,      22711]
-NotebookOutlinePosition[   1251882,      22732]
-CellTagsIndexPosition[   1251839,      22729]
+NotebookDataLength[   1255109,      22788]
+NotebookOptionsPosition[   1251631,      22720]
+NotebookOutlinePosition[   1252215,      22741]
+CellTagsIndexPosition[   1252172,      22738]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -7649,34 +7649,34 @@ KGBxSrduKqWgjt9y65OJAFXRCoo2S8k4c2TU9u1qMv4BIkfuRA==
         "WatermelonColors"]}}, $CellContext`k$$ = 
     1, $CellContext`maxTimeOut$$ = 10, $CellContext`PA$$ = 
     True, $CellContext`rest$$ = Or[
-     And[$CellContext`x1$24186 == 0, $CellContext`x2$24186 == 
-      0, $CellContext`x3$24186 == 1], 
-     And[$CellContext`x1$24186 == 0, $CellContext`x2$24186 == 
-      Rational[2, 3], $CellContext`x3$24186 == Rational[1, 3]], 
-     And[$CellContext`x1$24186 == 0, $CellContext`x2$24186 == 
-      1, $CellContext`x3$24186 == 0], 
-     And[$CellContext`x1$24186 == Rational[1, 3], $CellContext`x2$24186 == 
-      0, $CellContext`x3$24186 == Rational[2, 3]], 
-     And[$CellContext`x1$24186 == Rational[1, 3], $CellContext`x2$24186 == 
-      Rational[1, 3], $CellContext`x3$24186 == Rational[1, 3]], 
-     And[$CellContext`x1$24186 == Rational[2, 3], $CellContext`x2$24186 == 
-      Rational[1, 3], $CellContext`x3$24186 == 0], 
-     And[$CellContext`x1$24186 == 1, $CellContext`x2$24186 == 
-      0, $CellContext`x3$24186 == 
-      0]], $CellContext`restPoints$$ = {{$CellContext`x1$24186 -> 
-      0, $CellContext`x2$24186 -> 0, $CellContext`x3$24186 -> 
-      1}, {$CellContext`x1$24186 -> 0, $CellContext`x2$24186 -> 
-      Rational[2, 3], $CellContext`x3$24186 -> 
-      Rational[1, 3]}, {$CellContext`x1$24186 -> 0, $CellContext`x2$24186 -> 
-      1, $CellContext`x3$24186 -> 0}, {$CellContext`x1$24186 -> 
-      Rational[1, 3], $CellContext`x2$24186 -> 0, $CellContext`x3$24186 -> 
-      Rational[2, 3]}, {$CellContext`x1$24186 -> 
-      Rational[1, 3], $CellContext`x2$24186 -> 
-      Rational[1, 3], $CellContext`x3$24186 -> 
-      Rational[1, 3]}, {$CellContext`x1$24186 -> 
-      Rational[2, 3], $CellContext`x2$24186 -> 
-      Rational[1, 3], $CellContext`x3$24186 -> 0}, {$CellContext`x1$24186 -> 
-      1, $CellContext`x2$24186 -> 0, $CellContext`x3$24186 -> 
+     And[$CellContext`x1$91329 == 0, $CellContext`x2$91329 == 
+      0, $CellContext`x3$91329 == 1], 
+     And[$CellContext`x1$91329 == 0, $CellContext`x2$91329 == 
+      Rational[2, 3], $CellContext`x3$91329 == Rational[1, 3]], 
+     And[$CellContext`x1$91329 == 0, $CellContext`x2$91329 == 
+      1, $CellContext`x3$91329 == 0], 
+     And[$CellContext`x1$91329 == Rational[1, 3], $CellContext`x2$91329 == 
+      0, $CellContext`x3$91329 == Rational[2, 3]], 
+     And[$CellContext`x1$91329 == Rational[1, 3], $CellContext`x2$91329 == 
+      Rational[1, 3], $CellContext`x3$91329 == Rational[1, 3]], 
+     And[$CellContext`x1$91329 == Rational[2, 3], $CellContext`x2$91329 == 
+      Rational[1, 3], $CellContext`x3$91329 == 0], 
+     And[$CellContext`x1$91329 == 1, $CellContext`x2$91329 == 
+      0, $CellContext`x3$91329 == 
+      0]], $CellContext`restPoints$$ = {{$CellContext`x1$91329 -> 
+      0, $CellContext`x2$91329 -> 0, $CellContext`x3$91329 -> 
+      1}, {$CellContext`x1$91329 -> 0, $CellContext`x2$91329 -> 
+      Rational[2, 3], $CellContext`x3$91329 -> 
+      Rational[1, 3]}, {$CellContext`x1$91329 -> 0, $CellContext`x2$91329 -> 
+      1, $CellContext`x3$91329 -> 0}, {$CellContext`x1$91329 -> 
+      Rational[1, 3], $CellContext`x2$91329 -> 0, $CellContext`x3$91329 -> 
+      Rational[2, 3]}, {$CellContext`x1$91329 -> 
+      Rational[1, 3], $CellContext`x2$91329 -> 
+      Rational[1, 3], $CellContext`x3$91329 -> 
+      Rational[1, 3]}, {$CellContext`x1$91329 -> 
+      Rational[2, 3], $CellContext`x2$91329 -> 
+      Rational[1, 3], $CellContext`x3$91329 -> 0}, {$CellContext`x1$91329 -> 
+      1, $CellContext`x2$91329 -> 0, $CellContext`x3$91329 -> 
       0}}, $CellContext`restRegions$$ = {}, $CellContext`step$$ = Rational[
     1, 8], $CellContext`tMax$$ = 5, $CellContext`update$$ = 
     0, $CellContext`\[Mu]$$ = 0, Typeset`show$$ = True, 
@@ -14439,7 +14439,7 @@ $CellContext`x3$}, $CellContext`restPoints$$]]]}]],
                     Reals]& , 
                     
                     ReplaceAll[$CellContext`restRegions$$, {$CellContext`x1$ -> 
-                    2 ($CellContext`y$/Sqrt[3]), $CellContext`x2$ -> 
+                    2 $CellContext`y$/Sqrt[3], $CellContext`x2$ -> 
                     1 - $CellContext`x$ - $CellContext`y$/Sqrt[
                     3], $CellContext`x3$ -> $CellContext`x$ - $CellContext`y$/
                     Sqrt[3]}]]]], $CellContext`maxTimeOut$$, 
@@ -14518,10 +14518,9 @@ $CellContext`x3$}, $CellContext`restPoints$$]]], TableHeadings -> {None, {
               Column[{
                 Pane[
                  Text[
-                  
-                  Style[((
-                    "The symbolic computation of the rest points of this \
-dynamic takes longer than " <> ToString[$CellContext`maxTimeOut$$]) <> "s.") <> 
+                  Style[
+                  "The symbolic computation of the rest points of this \
+dynamic takes longer than " <> ToString[$CellContext`maxTimeOut$$] <> "s." <> 
                    If[$CellContext`maxTimeOut$$ < 10, 
                     " You may wish to increase the maximum time allowed to \
 compute the rest points.", ""], 12, FontFamily -> "Palatino"]], 400, 
@@ -14530,11 +14529,10 @@ compute the rest points.", ""], 12, FontFamily -> "Palatino"]], 400,
                Column[{
                  Pane[
                   Text[
-                   
-                   Style[((
-                    "The symbolic computation of the eigenvalues of the \
+                   Style[
+                   "The symbolic computation of the eigenvalues of the \
 Jacobian at the rest points takes longer than " <> 
-                    ToString[$CellContext`maxTimeOut$$]) <> "s.") <> 
+                    ToString[$CellContext`maxTimeOut$$] <> "s." <> 
                     If[$CellContext`maxTimeOut$$ < 10, 
                     " You may wish to increase the maximum time allowed to \
 compute the eigenvalues.", ""], 12, FontFamily -> "Palatino"]], 400, 
@@ -17961,7 +17959,7 @@ $CellContext`colormap$$, $CellContext`maxTimeOut$$, $CellContext`PA$$},
         3}}, $CellContext`x = 
        1, $CellContext`finishedComputationForProgressBar = 
        True, $CellContext`variableToResetProgressBar = 
-       0, $CellContext`ExpectedChange[
+       0.7100000000000004, $CellContext`ExpectedChange[
          Pattern[$CellContext`x, 
           Blank[]], 
          Pattern[$CellContext`A, 
@@ -18042,7 +18040,17 @@ $CellContext`\[CapitalPi]AA$, $CellContext`\[CapitalPi]AB$]], $CellContext`\
           Blank[]]] := (
           1 - $CellContext`m) $CellContext`f[$CellContext`x, $CellContext`A, \
 $CellContext`\[Alpha], $CellContext`parameter] + $CellContext`m (
-          ConstantArray[1/3, 3] - $CellContext`x), $CellContext`Replicator[
+          ConstantArray[1/3, 3] - $CellContext`x), $CellContext`PA$$[
+         Pattern[$CellContext`kA, 
+          Blank[]], 
+         Pattern[$CellContext`k, 
+          Blank[]], 
+         Pattern[$CellContext`qAA, 
+          Blank[]]] := 
+       Binomial[$CellContext`k, $CellContext`kA] \
+$CellContext`qAA^$CellContext`kA (
+          1 - $CellContext`qAA)^($CellContext`k - $CellContext`kA), \
+$CellContext`Replicator[
          Pattern[$CellContext`x, 
           Blank[]], 
          Pattern[$CellContext`A, 
@@ -18103,6 +18111,7 @@ $CellContext`d +
                Table[
                 Diagonal[$CellContext`A], 
                 3]], $CellContext`x], $CellContext`\[Alpha] >= 
+            
             0}, {(-$CellContext`\[Alpha]) $CellContext`FMMM3[$CellContext`x, \
 $CellContext`A], $CellContext`\[Alpha] < 0}}], $CellContext`d = {
          Subscript[$CellContext`\[CapitalPi], 1, 1], 
@@ -18286,17 +18295,19 @@ $CellContext`\[CapitalPi]BB)/$CellContext`k, $CellContext`BePositive[
           Style["Indet.", Red]}, 
          Eigenvalues[$CellContext`A]], $CellContext`ColorForPairOfEigenvalues[
          Pattern[$CellContext`l, 
-          Blank[List]]] := 
-       Module[{$CellContext`one, $CellContext`two}, {$CellContext`one, \
+          Blank[List]]] := Quiet[
+         Module[{$CellContext`one, $CellContext`two}, {$CellContext`one, \
 $CellContext`two} = $CellContext`l; Piecewise[{{Gray, 
-             
-             Or[$CellContext`one === Indeterminate, $CellContext`two === 
-              Indeterminate]}, {Red, 
-             And[Re[$CellContext`one] < 0, Re[$CellContext`two] < 0]}, {White, 
-             Or[Re[$CellContext`one] > 0, Re[$CellContext`two] > 0]}}, 
-           Gray]], $CellContext`l = {{{$CellContext`x1 -> 0, $CellContext`x2 -> 
-           0, $CellContext`x3 -> 1}, {-5, -2}}, {{$CellContext`x1 -> 
-           0, $CellContext`x2 -> 5/8, $CellContext`x3 -> 3/8}, {
+              
+              Or[$CellContext`one === Indeterminate, $CellContext`two === 
+               Indeterminate]}, {Red, 
+              And[Re[$CellContext`one] < 0, Re[$CellContext`two] < 0]}, {
+             White, 
+              Or[Re[$CellContext`one] > 0, Re[$CellContext`two] > 0]}}, 
+            Gray]]], $CellContext`l = {{{$CellContext`x1 -> 
+           0, $CellContext`x2 -> 0, $CellContext`x3 -> 
+           1}, {-5, -2}}, {{$CellContext`x1 -> 0, $CellContext`x2 -> 
+           5/8, $CellContext`x3 -> 3/8}, {
           15/8, 1/2}}, {{$CellContext`x1 -> 0, $CellContext`x2 -> 
            1, $CellContext`x3 -> 0}, {-3, -1}}, {{$CellContext`x1 -> 
            1/3, $CellContext`x2 -> 2/3, $CellContext`x3 -> 0}, {(-5)/3, 2/
@@ -18346,13 +18357,12 @@ Assortment", "Title"],
              TextCell[
               MatrixForm[$CellContext`A], "Text"], 
              TextCell["Dynamic", "Subsection"], 
-             
-             TextCell[((((("Replicator dynamics with selective " <> 
-                   If[$CellContext`PA, "positive", "negative"]) <> 
-                  " assortment, sample size k = ") <> 
-                 ToString[$CellContext`k]) <> 
-                ", and probability of random strategy \[Mu] = ") <> ToString[
-                 If[$CellContext`\[Mu] == 0., 0, $CellContext`\[Mu]]]) <> 
+             TextCell[
+             "Replicator dynamics with selective " <> 
+              If[$CellContext`PA, "positive", "negative"] <> 
+              " assortment, sample size k = " <> ToString[$CellContext`k] <> 
+              ", and probability of random strategy \[Mu] = " <> ToString[
+                If[$CellContext`\[Mu] == 0., 0, $CellContext`\[Mu]]] <> 
               ". To be precise:", "Text"], 
              TextCell[
               $CellContext`FixSymbols[MatrixForm[{
@@ -18374,15 +18384,14 @@ $CellContext`x2 + $CellContext`x3 -> 1}]]], "Text"],
            If[$CellContext`eigenvalues == {}, 
              NotebookWrite[$CellContext`report, {
                Cell[
-               "Exact isolated rest points (eigenvalues were not computed)", 
+               "Exact rest points (eigenvalues were not computed)", 
                 "Section"], 
                Cell[
                 BoxData[
                  ToBoxes[
                   $CellContext`FixSymbols[$CellContext`points]]], "Output"]}], 
              NotebookWrite[$CellContext`report, {
-               Cell[
-               "Exact isolated rest points and their eigenvalues", "Section"], 
+               Cell["Exact rest points and their eigenvalues", "Section"], 
                Cell[
                 BoxData[
                  ToBoxes[
@@ -18571,7 +18580,6 @@ $CellContext`eigenvalues}]]], "Output"]}]],
        Module[{$CellContext`B = $CellContext`\[Alpha] Transpose[
               Table[
                Diagonal[$CellContext`A], 3]] + (
-             
              1 - $CellContext`\[Alpha]) $CellContext`A, $CellContext`M, \
 $CellContext`MMP}, $CellContext`M = ConstantArray[
             Dot[$CellContext`B, $CellContext`x], 3]; $CellContext`MMP = 
@@ -19421,13 +19429,12 @@ Assortment", "Title"],
               TextCell[
                MatrixForm[$CellContext`A], "Text"], 
               TextCell["Dynamic", "Subsection"], 
-              
-              TextCell[((((("Replicator dynamics with selective " <> 
-                    If[$CellContext`PA, "positive", "negative"]) <> 
-                   " assortment, sample size k = ") <> 
-                  ToString[$CellContext`k]) <> 
-                 ", and probability of random strategy \[Mu] = ") <> ToString[
-                  If[$CellContext`\[Mu] == 0., 0, $CellContext`\[Mu]]]) <> 
+              TextCell[
+              "Replicator dynamics with selective " <> 
+               If[$CellContext`PA, "positive", "negative"] <> 
+               " assortment, sample size k = " <> ToString[$CellContext`k] <> 
+               ", and probability of random strategy \[Mu] = " <> ToString[
+                 If[$CellContext`\[Mu] == 0., 0, $CellContext`\[Mu]]] <> 
                ". To be precise:", "Text"], 
               TextCell[
                $CellContext`FixSymbols[MatrixForm[{
@@ -19540,16 +19547,17 @@ $CellContext`A, $CellContext`k, $CellContext`PA] + $CellContext`m (
            Style["Indet.", Red]}, 
           Eigenvalues[$CellContext`A]]; $CellContext`ColorForPairOfEigenvalues[
           Pattern[$CellContext`l, 
-           Blank[List]]] := 
-        Module[{$CellContext`one, $CellContext`two}, {$CellContext`one, \
+           Blank[List]]] := Quiet[
+          
+          Module[{$CellContext`one, $CellContext`two}, {$CellContext`one, \
 $CellContext`two} = $CellContext`l; Piecewise[{{Gray, 
-              
-              Or[$CellContext`one === Indeterminate, $CellContext`two === 
-               Indeterminate]}, {Red, 
-              And[Re[$CellContext`one] < 0, Re[$CellContext`two] < 0]}, {
-             White, 
-              Or[Re[$CellContext`one] > 0, Re[$CellContext`two] > 0]}}, 
-            Gray]]; Null}; Typeset`initDone$$ = True),
+               
+               Or[$CellContext`one === Indeterminate, $CellContext`two === 
+                Indeterminate]}, {Red, 
+               And[Re[$CellContext`one] < 0, Re[$CellContext`two] < 0]}, {
+              White, 
+               Or[Re[$CellContext`one] > 0, Re[$CellContext`two] > 0]}}, 
+             Gray]]]; Null}; Typeset`initDone$$ = True),
     SynchronousInitialization->True,
     UndoTrackedVariables:>{Typeset`show$$, Typeset`bookmarkMode$$},
     UnsavedVariables:>{Typeset`initDone$$},
@@ -19557,7 +19565,7 @@ $CellContext`two} = $CellContext`l; Piecewise[{{Gray,
    Deployed->True,
    StripOnInput->False],
   Manipulate`InterpretManipulate[1]]], "Output",
- CellLabel->"Out[1]=",ExpressionUUID->"554090aa-09d3-4a7a-b26d-4db72c85bbd5"],
+ CellLabel->"Out[10]=",ExpressionUUID->"02f92bdb-7fde-4a0f-b816-e98962249025"],
 
 Cell[TextData[{
  "If you find this notebook useful, we would appreciate it if you cited it as \
@@ -22669,44 +22677,45 @@ computed)\>\"", ",", "\"\<Section\>\""}], "]"}], ",", "\[IndentingNewLine]",
       RowBox[{"(*", " ", "GRAPHICS", " ", "*)"}], "\[IndentingNewLine]", 
       RowBox[{
        RowBox[{"ColorForPairOfEigenvalues", "[", "l_List", "]"}], ":=", 
-       RowBox[{"Module", "[", 
-        RowBox[{
-         RowBox[{"{", 
-          RowBox[{"one", ",", "two"}], "}"}], ",", "\[IndentingNewLine]", 
+       RowBox[{"Quiet", "@", 
+        RowBox[{"Module", "[", 
          RowBox[{
+          RowBox[{"{", 
+           RowBox[{"one", ",", "two"}], "}"}], ",", "\[IndentingNewLine]", 
           RowBox[{
-           RowBox[{"{", 
-            RowBox[{"one", ",", "two"}], "}"}], "=", "l"}], ";", 
-          "\[IndentingNewLine]", 
-          RowBox[{"Piecewise", "[", 
            RowBox[{
-            RowBox[{"{", "\[IndentingNewLine]", 
-             RowBox[{
-              RowBox[{"{", 
-               RowBox[{"Gray", ",", 
-                RowBox[{
-                 RowBox[{"one", "===", "Indeterminate"}], "||", 
-                 RowBox[{"two", "===", "Indeterminate"}]}]}], "}"}], ",", 
-              "\[IndentingNewLine]", 
-              RowBox[{"{", 
-               RowBox[{"Red", ",", " ", 
-                RowBox[{
+            RowBox[{"{", 
+             RowBox[{"one", ",", "two"}], "}"}], "=", "l"}], ";", 
+           "\[IndentingNewLine]", 
+           RowBox[{"Piecewise", "[", 
+            RowBox[{
+             RowBox[{"{", "\[IndentingNewLine]", 
+              RowBox[{
+               RowBox[{"{", 
+                RowBox[{"Gray", ",", 
                  RowBox[{
-                  RowBox[{"Re", "@", "one"}], "<", "0"}], "&&", 
+                  RowBox[{"one", "===", "Indeterminate"}], "||", 
+                  RowBox[{"two", "===", "Indeterminate"}]}]}], "}"}], ",", 
+               "\[IndentingNewLine]", 
+               RowBox[{"{", 
+                RowBox[{"Red", ",", " ", 
                  RowBox[{
-                  RowBox[{"Re", "@", "two"}], "<", "0"}]}]}], "}"}], ",", 
-              "\[IndentingNewLine]", 
-              RowBox[{"{", 
-               RowBox[{"White", ",", 
-                RowBox[{
+                  RowBox[{
+                   RowBox[{"Re", "@", "one"}], "<", "0"}], "&&", 
+                  RowBox[{
+                   RowBox[{"Re", "@", "two"}], "<", "0"}]}]}], "}"}], ",", 
+               "\[IndentingNewLine]", 
+               RowBox[{"{", 
+                RowBox[{"White", ",", 
                  RowBox[{
-                  RowBox[{"Re", "@", "one"}], ">", "0"}], "||", 
-                 RowBox[{
-                  RowBox[{"Re", "@", "two"}], ">", "0"}]}]}], "}"}]}], 
-             "\[IndentingNewLine]", "}"}], ",", "Gray"}], "]"}]}]}], 
-        "\[IndentingNewLine]", "]"}]}], ";"}], "\[IndentingNewLine]", 
+                  RowBox[{
+                   RowBox[{"Re", "@", "one"}], ">", "0"}], "||", 
+                  RowBox[{
+                   RowBox[{"Re", "@", "two"}], ">", "0"}]}]}], "}"}]}], 
+              "\[IndentingNewLine]", "}"}], ",", "Gray"}], "]"}]}]}], 
+         "\[IndentingNewLine]", "]"}]}]}], ";"}], "\[IndentingNewLine]", 
      "\[IndentingNewLine]", ")"}]}]}], "\[IndentingNewLine]", "]"}]], "Input",
- CellLabel->"In[1]:=",ExpressionUUID->"ebe497d7-c6bb-4946-9a6d-3dd577d63d4d"]
+ CellLabel->"In[10]:=",ExpressionUUID->"ebe497d7-c6bb-4946-9a6d-3dd577d63d4d"]
 }, Closed]]
 },
 ScreenStyleEnvironment->"Working",
@@ -22736,60 +22745,60 @@ Cell[1257, 32, 128, 0, 76, "Title",ExpressionUUID->"be2ab95f-49ca-4d64-983e-6549
 Cell[1388, 34, 630, 20, 49, "Subtitle",ExpressionUUID->"c414d9db-7737-4bde-8abd-eaa0928aedb2"],
 Cell[2021, 56, 781, 22, 62, "Text",ExpressionUUID->"73c625d9-c929-477d-869c-c28f423133fc"]
 }, Open  ]],
-Cell[2817, 81, 1108689, 19478, 757, "Output",ExpressionUUID->"554090aa-09d3-4a7a-b26d-4db72c85bbd5"],
-Cell[1111509, 19561, 541, 11, 86, "Text",ExpressionUUID->"c1d82612-7b36-4034-b445-73a6d33d6648"],
+Cell[2817, 81, 1108953, 19486, 757, "Output",ExpressionUUID->"02f92bdb-7fde-4a0f-b816-e98962249025"],
+Cell[1111773, 19569, 541, 11, 86, "Text",ExpressionUUID->"c1d82612-7b36-4034-b445-73a6d33d6648"],
 Cell[CellGroupData[{
-Cell[1112075, 19576, 146, 3, 92, "Section",ExpressionUUID->"e5b48c76-9ef9-435c-93ae-347850a12596",
+Cell[1112339, 19584, 146, 3, 92, "Section",ExpressionUUID->"e5b48c76-9ef9-435c-93ae-347850a12596",
  CellGroupingRules->{"SectionGrouping", Inherited}],
-Cell[1112224, 19581, 1415, 22, 228, "Text",ExpressionUUID->"8c845bcb-a751-4dec-8482-ce147cb1ad0b"],
+Cell[1112488, 19589, 1415, 22, 228, "Text",ExpressionUUID->"8c845bcb-a751-4dec-8482-ce147cb1ad0b"],
 Cell[CellGroupData[{
-Cell[1113664, 19607, 87, 0, 44, "Subsection",ExpressionUUID->"590dddd8-31a9-4c5f-b4c8-2bf175fb5cbb"],
+Cell[1113928, 19615, 87, 0, 44, "Subsection",ExpressionUUID->"590dddd8-31a9-4c5f-b4c8-2bf175fb5cbb"],
 Cell[CellGroupData[{
-Cell[1113776, 19611, 87, 0, 32, "Subsubsection",ExpressionUUID->"c076fe37-74af-4c6c-9752-2049e3ce6a44"],
-Cell[1113866, 19613, 1657, 39, 140, "Text",ExpressionUUID->"7d6bdaef-365b-4320-ac7c-966c6db12e1c"]
+Cell[1114040, 19619, 87, 0, 32, "Subsubsection",ExpressionUUID->"c076fe37-74af-4c6c-9752-2049e3ce6a44"],
+Cell[1114130, 19621, 1657, 39, 140, "Text",ExpressionUUID->"7d6bdaef-365b-4320-ac7c-966c6db12e1c"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1115560, 19657, 90, 0, 32, "Subsubsection",ExpressionUUID->"2eaed39b-5511-4ec6-91fc-673e4fd1cbe8"],
-Cell[1115653, 19659, 865, 19, 133, "Text",ExpressionUUID->"43be6ad7-59cb-434b-aebd-390f8849047f"],
-Cell[1116521, 19680, 186, 3, 38, "Item",ExpressionUUID->"6ab3f33f-cfec-4a7f-9dbc-1f09667722da"],
-Cell[1116710, 19685, 189, 3, 38, "Item",ExpressionUUID->"3a792f69-5eba-4f1b-bd84-1ed2c2bf16f6"],
-Cell[1116902, 19690, 666, 11, 137, "Text",ExpressionUUID->"dfa1da6a-897e-4c4d-8df2-3e87a9d56377"]
+Cell[1115824, 19665, 90, 0, 32, "Subsubsection",ExpressionUUID->"2eaed39b-5511-4ec6-91fc-673e4fd1cbe8"],
+Cell[1115917, 19667, 865, 19, 133, "Text",ExpressionUUID->"43be6ad7-59cb-434b-aebd-390f8849047f"],
+Cell[1116785, 19688, 186, 3, 38, "Item",ExpressionUUID->"6ab3f33f-cfec-4a7f-9dbc-1f09667722da"],
+Cell[1116974, 19693, 189, 3, 38, "Item",ExpressionUUID->"3a792f69-5eba-4f1b-bd84-1ed2c2bf16f6"],
+Cell[1117166, 19698, 666, 11, 137, "Text",ExpressionUUID->"dfa1da6a-897e-4c4d-8df2-3e87a9d56377"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1117605, 19706, 169, 3, 32, "Subsubsection",ExpressionUUID->"bfaf77e0-e6d2-4970-b577-864e9e9975b4",
+Cell[1117869, 19714, 169, 3, 32, "Subsubsection",ExpressionUUID->"bfaf77e0-e6d2-4970-b577-864e9e9975b4",
  CellGroupingRules->{"SectionGrouping", Inherited}],
-Cell[1117777, 19711, 662, 17, 63, "Text",ExpressionUUID->"7a73b3c6-6ad5-40f9-b61d-cc385c114f05"],
-Cell[1118442, 19730, 961, 29, 54, "Text",ExpressionUUID->"dc6836c9-62ff-4dcf-ba8e-ccd844a6dd73"]
+Cell[1118041, 19719, 662, 17, 63, "Text",ExpressionUUID->"7a73b3c6-6ad5-40f9-b61d-cc385c114f05"],
+Cell[1118706, 19738, 961, 29, 54, "Text",ExpressionUUID->"dc6836c9-62ff-4dcf-ba8e-ccd844a6dd73"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1119440, 19764, 151, 3, 32, "Subsubsection",ExpressionUUID->"bed87209-639e-4e3a-80bb-89dca27c294f",
+Cell[1119704, 19772, 151, 3, 32, "Subsubsection",ExpressionUUID->"bed87209-639e-4e3a-80bb-89dca27c294f",
  CellGroupingRules->{"SectionGrouping", Inherited}],
-Cell[1119594, 19769, 700, 13, 86, "Text",ExpressionUUID->"26f7cd6e-d2ee-40d9-bc15-744401e7e367"]
+Cell[1119858, 19777, 700, 13, 86, "Text",ExpressionUUID->"26f7cd6e-d2ee-40d9-bc15-744401e7e367"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1120331, 19787, 153, 3, 32, "Subsubsection",ExpressionUUID->"16532bda-d780-4b6b-a32c-2ddb182260e0",
+Cell[1120595, 19795, 153, 3, 32, "Subsubsection",ExpressionUUID->"16532bda-d780-4b6b-a32c-2ddb182260e0",
  CellGroupingRules->{"SectionGrouping", Inherited}],
-Cell[1120487, 19792, 210, 3, 38, "Text",ExpressionUUID->"72322232-5053-4331-bd79-d609f3dfb477"]
+Cell[1120751, 19800, 210, 3, 38, "Text",ExpressionUUID->"72322232-5053-4331-bd79-d609f3dfb477"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1120734, 19800, 155, 3, 32, "Subsubsection",ExpressionUUID->"0d5fd993-f7ad-4edd-b507-cbcbd8c357f9",
+Cell[1120998, 19808, 155, 3, 32, "Subsubsection",ExpressionUUID->"0d5fd993-f7ad-4edd-b507-cbcbd8c357f9",
  CellGroupingRules->{"SectionGrouping", Inherited}],
-Cell[1120892, 19805, 587, 13, 63, "Text",ExpressionUUID->"83f03c40-c369-4224-b6df-6877fab23eea"]
+Cell[1121156, 19813, 587, 13, 63, "Text",ExpressionUUID->"83f03c40-c369-4224-b6df-6877fab23eea"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1121528, 19824, 142, 3, 44, "Subsection",ExpressionUUID->"597b3f87-ed10-4d79-b4a4-749e420985f7",
+Cell[1121792, 19832, 142, 3, 44, "Subsection",ExpressionUUID->"597b3f87-ed10-4d79-b4a4-749e420985f7",
  CellGroupingRules->{"SectionGrouping", Inherited}],
-Cell[1121673, 19829, 958, 14, 181, "Text",ExpressionUUID->"6b7ccf26-cf8a-48fc-aa7a-33705c52788c"]
+Cell[1121937, 19837, 958, 14, 181, "Text",ExpressionUUID->"6b7ccf26-cf8a-48fc-aa7a-33705c52788c"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1122680, 19849, 88, 0, 92, "Section",ExpressionUUID->"55447b59-612e-4591-8e42-22aa94d55bf5"],
-Cell[1122771, 19851, 2446, 51, 798, "Text",ExpressionUUID->"3e570553-cd0b-47f0-bf9b-dcd4a5acb375"]
+Cell[1122944, 19857, 88, 0, 92, "Section",ExpressionUUID->"55447b59-612e-4591-8e42-22aa94d55bf5"],
+Cell[1123035, 19859, 2446, 51, 798, "Text",ExpressionUUID->"3e570553-cd0b-47f0-bf9b-dcd4a5acb375"]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[1125254, 19907, 85, 0, 53, "Section",ExpressionUUID->"d7fc9b4c-924e-445b-8538-aebcffdbf017"],
-Cell[1125342, 19909, 125940, 2799, 13197, "Input",ExpressionUUID->"ebe497d7-c6bb-4946-9a6d-3dd577d63d4d"]
+Cell[1125518, 19915, 85, 0, 53, "Section",ExpressionUUID->"d7fc9b4c-924e-445b-8538-aebcffdbf017"],
+Cell[1125606, 19917, 126009, 2800, 13197, "Input",ExpressionUUID->"ebe497d7-c6bb-4946-9a6d-3dd577d63d4d"]
 }, Closed]]
 }
 ]
