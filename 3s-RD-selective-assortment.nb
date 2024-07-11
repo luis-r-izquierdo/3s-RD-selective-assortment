@@ -19564,11 +19564,11 @@ Cell[TextData[{
 follows: \[LineSeparator]Izquierdo, Luis R.; Izquierdo, Segismundo S.; \
 Hauert, Christoph (2024). 3-strategy Replicator Dynamics with Selective \
 Assortment. Software. DOI: ",
- ButtonBox["10.5281/zenodo.12727269",
+ ButtonBox["10.5281/zenodo.12727268",
   BaseStyle->"Hyperlink",
   ButtonData->{
-    URL["https://doi.org/10.5281/zenodo.12727269"], None},
-  ButtonNote->"https://doi.org/10.5281/zenodo.12727269"],
+    URL["https://doi.org/10.5281/zenodo.12727268"], None},
+  ButtonNote->"https://doi.org/10.5281/zenodo.12727268"],
  "."
 }], "Text",ExpressionUUID->"c1d82612-7b36-4034-b445-73a6d33d6648"],
 
