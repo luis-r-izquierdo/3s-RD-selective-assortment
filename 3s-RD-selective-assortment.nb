@@ -20,10 +20,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       835,         17]
-NotebookDataLength[   1265453,      23012]
-NotebookOptionsPosition[   1261969,      22944]
-NotebookOutlinePosition[   1262559,      22965]
-CellTagsIndexPosition[   1262516,      22962]
+NotebookDataLength[   1266064,      23022]
+NotebookOptionsPosition[   1262576,      22954]
+NotebookOutlinePosition[   1263165,      22975]
+CellTagsIndexPosition[   1263122,      22972]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -7649,34 +7649,34 @@ KGBxSrduKqWgjt9y65OJAFXRCoo2S8k4c2TU9u1qMv4BIkfuRA==
         "WatermelonColors"]}}, $CellContext`k$$ = 
     1, $CellContext`maxTimeOut$$ = 10, $CellContext`PA$$ = 
     True, $CellContext`rest$$ = Or[
-     And[$CellContext`x1$119748 == 0, $CellContext`x2$119748 == 
-      0, $CellContext`x3$119748 == 1], 
-     And[$CellContext`x1$119748 == 0, $CellContext`x2$119748 == 
-      Rational[2, 3], $CellContext`x3$119748 == Rational[1, 3]], 
-     And[$CellContext`x1$119748 == 0, $CellContext`x2$119748 == 
-      1, $CellContext`x3$119748 == 0], 
-     And[$CellContext`x1$119748 == Rational[1, 3], $CellContext`x2$119748 == 
-      0, $CellContext`x3$119748 == Rational[2, 3]], 
-     And[$CellContext`x1$119748 == Rational[1, 3], $CellContext`x2$119748 == 
-      Rational[1, 3], $CellContext`x3$119748 == Rational[1, 3]], 
-     And[$CellContext`x1$119748 == Rational[2, 3], $CellContext`x2$119748 == 
-      Rational[1, 3], $CellContext`x3$119748 == 0], 
-     And[$CellContext`x1$119748 == 1, $CellContext`x2$119748 == 
-      0, $CellContext`x3$119748 == 
-      0]], $CellContext`restPoints$$ = {{$CellContext`x1$119748 -> 
-      0, $CellContext`x2$119748 -> 0, $CellContext`x3$119748 -> 
-      1}, {$CellContext`x1$119748 -> 0, $CellContext`x2$119748 -> 
-      Rational[2, 3], $CellContext`x3$119748 -> 
-      Rational[1, 3]}, {$CellContext`x1$119748 -> 0, $CellContext`x2$119748 -> 
-      1, $CellContext`x3$119748 -> 0}, {$CellContext`x1$119748 -> 
-      Rational[1, 3], $CellContext`x2$119748 -> 0, $CellContext`x3$119748 -> 
-      Rational[2, 3]}, {$CellContext`x1$119748 -> 
-      Rational[1, 3], $CellContext`x2$119748 -> 
-      Rational[1, 3], $CellContext`x3$119748 -> 
-      Rational[1, 3]}, {$CellContext`x1$119748 -> 
-      Rational[2, 3], $CellContext`x2$119748 -> 
-      Rational[1, 3], $CellContext`x3$119748 -> 0}, {$CellContext`x1$119748 -> 
-      1, $CellContext`x2$119748 -> 0, $CellContext`x3$119748 -> 
+     And[$CellContext`x1$30331 == 0, $CellContext`x2$30331 == 
+      0, $CellContext`x3$30331 == 1], 
+     And[$CellContext`x1$30331 == 0, $CellContext`x2$30331 == 
+      Rational[2, 3], $CellContext`x3$30331 == Rational[1, 3]], 
+     And[$CellContext`x1$30331 == 0, $CellContext`x2$30331 == 
+      1, $CellContext`x3$30331 == 0], 
+     And[$CellContext`x1$30331 == Rational[1, 3], $CellContext`x2$30331 == 
+      0, $CellContext`x3$30331 == Rational[2, 3]], 
+     And[$CellContext`x1$30331 == Rational[1, 3], $CellContext`x2$30331 == 
+      Rational[1, 3], $CellContext`x3$30331 == Rational[1, 3]], 
+     And[$CellContext`x1$30331 == Rational[2, 3], $CellContext`x2$30331 == 
+      Rational[1, 3], $CellContext`x3$30331 == 0], 
+     And[$CellContext`x1$30331 == 1, $CellContext`x2$30331 == 
+      0, $CellContext`x3$30331 == 
+      0]], $CellContext`restPoints$$ = {{$CellContext`x1$30331 -> 
+      0, $CellContext`x2$30331 -> 0, $CellContext`x3$30331 -> 
+      1}, {$CellContext`x1$30331 -> 0, $CellContext`x2$30331 -> 
+      Rational[2, 3], $CellContext`x3$30331 -> 
+      Rational[1, 3]}, {$CellContext`x1$30331 -> 0, $CellContext`x2$30331 -> 
+      1, $CellContext`x3$30331 -> 0}, {$CellContext`x1$30331 -> 
+      Rational[1, 3], $CellContext`x2$30331 -> 0, $CellContext`x3$30331 -> 
+      Rational[2, 3]}, {$CellContext`x1$30331 -> 
+      Rational[1, 3], $CellContext`x2$30331 -> 
+      Rational[1, 3], $CellContext`x3$30331 -> 
+      Rational[1, 3]}, {$CellContext`x1$30331 -> 
+      Rational[2, 3], $CellContext`x2$30331 -> 
+      Rational[1, 3], $CellContext`x3$30331 -> 0}, {$CellContext`x1$30331 -> 
+      1, $CellContext`x2$30331 -> 0, $CellContext`x3$30331 -> 
       0}}, $CellContext`restRegions$$ = {}, $CellContext`step$$ = Rational[
     1, 8], $CellContext`tMax$$ = 5, $CellContext`update$$ = 
     0, $CellContext`\[Mu]$$ = 0, Typeset`show$$ = True, 
@@ -11108,7 +11108,7 @@ $CellContext`a33$$}},
 $CellContext`figure$$, $CellContext`rest$$, $CellContext`restPoints$$, \
 $CellContext`exactEigenvalues$$, $CellContext`restRegions$$], Method -> 
         "Queued"]], Manipulate`Dump`ThisIsNotAControl, ControlType -> None}}, 
-    Typeset`size$$ = {500., {333., 341.}}, Typeset`update$$ = 0, 
+    Typeset`size$$ = {600., {401., 409.}}, Typeset`update$$ = 0, 
     Typeset`initDone$$, Typeset`skipInitDone$$ = False}, 
     DynamicBox[Manipulate`ManipulateBoxes[
      2, StandardForm, 
@@ -18009,7 +18009,7 @@ $CellContext`colormap$$, $CellContext`maxTimeOut$$, $CellContext`PA$$},
         Alignment -> Top, ControlPlacement -> Left, SynchronousUpdating -> 
         False, ContinuousAction -> True, AppearanceElements -> None}, 
       "DefaultOptions" :> {}],
-     ImageSizeCache->{829., {358., 365.}},
+     ImageSizeCache->{991., {431., 440.}},
      SingleEvaluation->True],
     Deinitialization:>None,
     DynamicModuleValues:>{},
@@ -18024,7 +18024,35 @@ $CellContext`colormap$$, $CellContext`maxTimeOut$$, $CellContext`PA$$},
        Attributes[$CellContext`x3$75850] = {
         Temporary}, $CellContext`finishedComputationForProgressBar = 
        True, $CellContext`variableToResetProgressBar = 
-       1.0500000000000007`, $CellContext`ExpectedChange[
+       0.7800000000000005, $CellContext`ExpectedChange[
+         Pattern[$CellContext`x, 
+          Blank[]], 
+         Pattern[$CellContext`A, 
+          Blank[]], 
+         Pattern[$CellContext`k, 
+          Blank[]], 
+         Pattern[$CellContext`PA, 
+          Blank[]], 
+         Pattern[$CellContext`m, 
+          Blank[]]] := (
+          1 - $CellContext`m) $CellContext`Replicator[$CellContext`x, \
+$CellContext`A, $CellContext`k, $CellContext`PA] + $CellContext`m (
+          ConstantArray[1/3, 3] - $CellContext`x), $CellContext`ExpectedChange[
+         Pattern[$CellContext`x, 
+          Blank[]], 
+         Pattern[$CellContext`A, 
+          Blank[]], 
+         Pattern[$CellContext`\[Alpha], 
+          Blank[]], 
+         Pattern[$CellContext`parameter, 
+          Blank[]], 
+         Pattern[$CellContext`m, 
+          Blank[]], 
+         Pattern[$CellContext`f, 
+          Blank[]]] := (
+          1 - $CellContext`m) $CellContext`f[$CellContext`x, $CellContext`A, \
+$CellContext`\[Alpha], $CellContext`parameter] + $CellContext`m (
+          ConstantArray[1/3, 3] - $CellContext`x), $CellContext`ExpectedChange[
          Pattern[$CellContext`maxDiff$, 
           Blank[]], 
          Pattern[$CellContext`mR$, 
@@ -18077,88 +18105,7 @@ CellContext`\[Rho]A$, $CellContext`\[CapitalPi]BA$, \
 $CellContext`\[CapitalPi]BB$] - \
 $CellContext`\[CapitalPi]A[$CellContext`\[Rho]A$, \
 $CellContext`\[CapitalPi]AA$, $CellContext`\[CapitalPi]AB$]], $CellContext`\
-\[Rho]B$ > 0}}, 0]]], $CellContext`ExpectedChange[
-         Pattern[$CellContext`x, 
-          Blank[]], 
-         Pattern[$CellContext`A, 
-          Blank[]], 
-         Pattern[$CellContext`\[Alpha], 
-          Blank[]], 
-         Pattern[$CellContext`parameter, 
-          Blank[]], 
-         Pattern[$CellContext`m, 
-          Blank[]], 
-         Pattern[$CellContext`f, 
-          Blank[]]] := (
-          1 - $CellContext`m) $CellContext`f[$CellContext`x, $CellContext`A, \
-$CellContext`\[Alpha], $CellContext`parameter] + $CellContext`m (
-          ConstantArray[1/3, 3] - $CellContext`x), $CellContext`ExpectedChange[
-         Pattern[$CellContext`x, 
-          Blank[]], 
-         Pattern[$CellContext`A, 
-          Blank[]], 
-         Pattern[$CellContext`k, 
-          Blank[]], 
-         Pattern[$CellContext`PA, 
-          Blank[]], 
-         Pattern[$CellContext`m, 
-          Blank[]]] := (
-          1 - $CellContext`m) $CellContext`Replicator[$CellContext`x, \
-$CellContext`A, $CellContext`k, $CellContext`PA] + $CellContext`m (
-          ConstantArray[1/3, 3] - $CellContext`x), 
-       Attributes[$CellContext`maxDiff$] = {Temporary}, 
-       Attributes[$CellContext`mR$] = {Temporary}, 
-       Attributes[$CellContext`payoffs$] = {Temporary}, 
-       Attributes[$CellContext`\[Rho]A$] = {Temporary}, 
-       Attributes[$CellContext`\[CapitalPi]AA$] = {Temporary}, 
-       Attributes[$CellContext`\[CapitalPi]AB$] = {Temporary}, 
-       Attributes[$CellContext`\[CapitalPi]BA$] = {Temporary}, 
-       Attributes[$CellContext`\[CapitalPi]BB$] = {Temporary}, 
-       Attributes[$CellContext`\[Rho]B$] = {
-        Temporary}, $CellContext`\[CapitalPi]A[
-         Pattern[$CellContext`x, 
-          Blank[]], 
-         Pattern[$CellContext`\[CapitalPi]AA, 
-          Blank[]], 
-         Pattern[$CellContext`\[CapitalPi]AB, 
-          Blank[]]] := $CellContext`x $CellContext`\[CapitalPi]AA + (
-          1 - $CellContext`x) $CellContext`\[CapitalPi]AB, $CellContext`\
-\[CapitalPi]A[
-         Pattern[$CellContext`kA, 
-          Blank[]], 
-         Pattern[$CellContext`k, 
-          Blank[]], 
-         Pattern[$CellContext`\[CapitalPi]AA, 
-          Blank[]], 
-         Pattern[$CellContext`\[CapitalPi]AB, 
-          
-          Blank[]]] := ($CellContext`kA $CellContext`\[CapitalPi]AA + \
-($CellContext`k - $CellContext`kA) \
-$CellContext`\[CapitalPi]AB)/$CellContext`k, $CellContext`\[CapitalPi]B[
-         Pattern[$CellContext`x, 
-          Blank[]], 
-         Pattern[$CellContext`\[CapitalPi]BA, 
-          Blank[]], 
-         Pattern[$CellContext`\[CapitalPi]BB, 
-          Blank[]]] := $CellContext`x $CellContext`\[CapitalPi]BA + (
-          1 - $CellContext`x) $CellContext`\[CapitalPi]BB, $CellContext`\
-\[CapitalPi]B[
-         Pattern[$CellContext`kA, 
-          Blank[]], 
-         Pattern[$CellContext`k, 
-          Blank[]], 
-         Pattern[$CellContext`\[CapitalPi]BA, 
-          Blank[]], 
-         Pattern[$CellContext`\[CapitalPi]BB, 
-          
-          Blank[]]] := ($CellContext`kA $CellContext`\[CapitalPi]BA + \
-($CellContext`k - $CellContext`kA) \
-$CellContext`\[CapitalPi]BB)/$CellContext`k, $CellContext`BePositive[
-         Pattern[$CellContext`x, 
-          Blank[]]] := 
-       Piecewise[{{
-          0, $CellContext`x < 0}, {$CellContext`x, $CellContext`x >= 
-           0}}], $CellContext`f = -1& , $CellContext`Replicator[
+\[Rho]B$ > 0}}, 0]]], $CellContext`Replicator[
          Pattern[$CellContext`x, 
           Blank[]], 
          Pattern[$CellContext`A, 
@@ -18327,7 +18274,60 @@ $CellContext`A], $CellContext`\[Alpha] < 0}}], $CellContext`d = {
            2 Part[$CellContext`x, 3] (
              Part[$CellContext`x, 2] 
               Part[$CellContext`A, 3, 2] + (-1 + 2 Part[$CellContext`x, 3]) 
-              Part[$CellContext`A, 3, 3]))]}, $CellContext`Simplex2DCoord[{
+              Part[$CellContext`A, 3, 3]))]}, $CellContext`f = -1& , 
+       Attributes[$CellContext`maxDiff$] = {Temporary}, 
+       Attributes[$CellContext`mR$] = {Temporary}, 
+       Attributes[$CellContext`payoffs$] = {Temporary}, 
+       Attributes[$CellContext`\[Rho]A$] = {Temporary}, 
+       Attributes[$CellContext`\[CapitalPi]AA$] = {Temporary}, 
+       Attributes[$CellContext`\[CapitalPi]AB$] = {Temporary}, 
+       Attributes[$CellContext`\[CapitalPi]BA$] = {Temporary}, 
+       Attributes[$CellContext`\[CapitalPi]BB$] = {Temporary}, 
+       Attributes[$CellContext`\[Rho]B$] = {
+        Temporary}, $CellContext`\[CapitalPi]A[
+         Pattern[$CellContext`x, 
+          Blank[]], 
+         Pattern[$CellContext`\[CapitalPi]AA, 
+          Blank[]], 
+         Pattern[$CellContext`\[CapitalPi]AB, 
+          Blank[]]] := $CellContext`x $CellContext`\[CapitalPi]AA + (
+          1 - $CellContext`x) $CellContext`\[CapitalPi]AB, $CellContext`\
+\[CapitalPi]A[
+         Pattern[$CellContext`kA, 
+          Blank[]], 
+         Pattern[$CellContext`k, 
+          Blank[]], 
+         Pattern[$CellContext`\[CapitalPi]AA, 
+          Blank[]], 
+         Pattern[$CellContext`\[CapitalPi]AB, 
+          
+          Blank[]]] := ($CellContext`kA $CellContext`\[CapitalPi]AA + \
+($CellContext`k - $CellContext`kA) \
+$CellContext`\[CapitalPi]AB)/$CellContext`k, $CellContext`\[CapitalPi]B[
+         Pattern[$CellContext`x, 
+          Blank[]], 
+         Pattern[$CellContext`\[CapitalPi]BA, 
+          Blank[]], 
+         Pattern[$CellContext`\[CapitalPi]BB, 
+          Blank[]]] := $CellContext`x $CellContext`\[CapitalPi]BA + (
+          1 - $CellContext`x) $CellContext`\[CapitalPi]BB, $CellContext`\
+\[CapitalPi]B[
+         Pattern[$CellContext`kA, 
+          Blank[]], 
+         Pattern[$CellContext`k, 
+          Blank[]], 
+         Pattern[$CellContext`\[CapitalPi]BA, 
+          Blank[]], 
+         Pattern[$CellContext`\[CapitalPi]BB, 
+          
+          Blank[]]] := ($CellContext`kA $CellContext`\[CapitalPi]BA + \
+($CellContext`k - $CellContext`kA) \
+$CellContext`\[CapitalPi]BB)/$CellContext`k, $CellContext`BePositive[
+         Pattern[$CellContext`x, 
+          Blank[]]] := 
+       Piecewise[{{
+          0, $CellContext`x < 0}, {$CellContext`x, $CellContext`x >= 
+           0}}], $CellContext`Simplex2DCoord[{
           Pattern[$CellContext`x1, 
            Blank[]], 
           Pattern[$CellContext`x2, 
@@ -18424,6 +18424,87 @@ $CellContext`two} = $CellContext`l; Piecewise[{{Gray,
          0], $CellContext`GenerateReport[
          Pattern[$CellContext`A, 
           Blank[]], 
+         Pattern[$CellContext`k, 
+          Blank[]], 
+         Pattern[$CellContext`PA, 
+          Blank[]], 
+         Pattern[$CellContext`\[Mu], 
+          Blank[]], 
+         Pattern[$CellContext`figure, 
+          Blank[]], 
+         Pattern[$CellContext`all, 
+          Blank[]], 
+         Pattern[$CellContext`points, 
+          Blank[]], 
+         Pattern[$CellContext`eigenvalues, 
+          Blank[]], 
+         Pattern[$CellContext`regions, 
+          Blank[]]] := 
+       Module[{$CellContext`report, $CellContext`x1, $CellContext`x2, \
+$CellContext`x3}, $CellContext`report = CreateDocument[{
+             TextCell[
+             "Report of 3-strategy Replicator Dynamics with Selective \
+Assortment", "Title"], 
+             TextCell["Parameters", "Section"], 
+             TextCell["Payoff matrix", "Subsection"], 
+             TextCell[
+              MatrixForm[$CellContext`A], "Text"], 
+             TextCell["Dynamic", "Subsection"], 
+             
+             TextCell[((((("Replicator dynamics with selective " <> 
+                   If[$CellContext`PA, "positive", "negative"]) <> 
+                  " assortment, sample size k = ") <> 
+                 ToString[$CellContext`k]) <> 
+                ", and probability of random strategy \[Mu] = ") <> ToString[
+                 If[$CellContext`\[Mu] == 0., 0, $CellContext`\[Mu]]]) <> 
+              ". To be precise:", "Text"], 
+             TextCell[
+              $CellContext`FixSymbols[MatrixForm[{
+                  OverDot[$CellContext`x1], 
+                  OverDot[$CellContext`x2], 
+                  OverDot[$CellContext`x3]}] == MatrixForm[
+                 ReplaceAll[
+                  $CellContext`ExpectedChange[{$CellContext`x1, \
+$CellContext`x2, $CellContext`x3}, $CellContext`A, 
+                   Rationalize[$CellContext`k], $CellContext`PA, 
+                   
+                   Rationalize[$CellContext`\[Mu]]], {$CellContext`x1 + \
+$CellContext`x2 + $CellContext`x3 -> 1}]]], "Text"], 
+             TextCell["Phase portrait and numeric computations", "Section"], 
+             ExpressionCell[$CellContext`figure, TextAlignment -> Center]}, 
+            Visible -> False]; 
+         If[$CellContext`all =!= $Aborted, 
+           SelectionMove[$CellContext`report, After, Notebook]; 
+           If[$CellContext`eigenvalues == {}, 
+             NotebookWrite[$CellContext`report, {
+               Cell[
+               "Exact isolated rest points (eigenvalues were not computed)", 
+                "Section"], 
+               Cell[
+                BoxData[
+                 ToBoxes[
+                  $CellContext`FixSymbols[$CellContext`points]]], "Output"]}], 
+             NotebookWrite[$CellContext`report, {
+               Cell[
+               "Exact isolated rest points and their eigenvalues", "Section"], 
+               Cell[
+                BoxData[
+                 ToBoxes[
+                  MapThread[List, {
+                    $CellContext`FixSymbols[$CellContext`points], \
+$CellContext`eigenvalues}]]], "Output"]}]]; 
+           NotebookWrite[$CellContext`report, {
+              Cell["Exact components of rest points", "Section"], 
+              Cell[
+               BoxData[
+                ToBoxes[
+                 $CellContext`FixSymbols[$CellContext`regions]]], "Output"]}]; 
+           SelectionMove[$CellContext`report, Before, Notebook]; Null]; 
+         SetOptions[$CellContext`report, Visible -> True]; 
+         SetSelectedNotebook[$CellContext`report]; 
+         Null], $CellContext`GenerateReport[
+         Pattern[$CellContext`A, 
+          Blank[]], 
          Pattern[$CellContext`f, 
           Blank[]], 
          Pattern[$CellContext`\[Alpha], 
@@ -18492,7 +18573,6 @@ $CellContext`BEPTwoUnif ->
                     If[$CellContext`\[Alpha] == 0., 
                     0, $CellContext`\[Alpha]]]) <> 
                   If[$CellContext`f === $CellContext`Replicator, 
-                    
                     If[$CellContext`parameter, " and positive assortment ", 
                     " and negative assortment "], ""]) <> If[
                    
@@ -18570,86 +18650,18 @@ $CellContext`eigenvalues}]]], "Output"]}]],
            SelectionMove[$CellContext`report, Before, Notebook]; Null]; 
          SetOptions[$CellContext`report, Visible -> True]; 
          SetSelectedNotebook[$CellContext`report]; 
-         Null], $CellContext`GenerateReport[
-         Pattern[$CellContext`A, 
-          Blank[]], 
-         Pattern[$CellContext`k, 
-          Blank[]], 
-         Pattern[$CellContext`PA, 
-          Blank[]], 
-         Pattern[$CellContext`\[Mu], 
-          Blank[]], 
-         Pattern[$CellContext`figure, 
-          Blank[]], 
-         Pattern[$CellContext`all, 
-          Blank[]], 
-         Pattern[$CellContext`points, 
-          Blank[]], 
-         Pattern[$CellContext`eigenvalues, 
-          Blank[]], 
-         Pattern[$CellContext`regions, 
-          Blank[]]] := 
-       Module[{$CellContext`report, $CellContext`x1, $CellContext`x2, \
-$CellContext`x3}, $CellContext`report = CreateDocument[{
-             TextCell[
-             "Report of 3-strategy Replicator Dynamics with Selective \
-Assortment", "Title"], 
-             TextCell["Parameters", "Section"], 
-             TextCell["Payoff matrix", "Subsection"], 
-             TextCell[
-              MatrixForm[$CellContext`A], "Text"], 
-             TextCell["Dynamic", "Subsection"], 
-             TextCell[
-             "Replicator dynamics with selective " <> 
-              If[$CellContext`PA, "positive", "negative"] <> 
-              " assortment, sample size k = " <> ToString[$CellContext`k] <> 
-              ", and probability of random strategy \[Mu] = " <> ToString[
-                If[$CellContext`\[Mu] == 0., 0, $CellContext`\[Mu]]] <> 
-              ". To be precise:", "Text"], 
-             TextCell[
-              $CellContext`FixSymbols[MatrixForm[{
-                  OverDot[$CellContext`x1], 
-                  OverDot[$CellContext`x2], 
-                  OverDot[$CellContext`x3]}] == MatrixForm[
-                 ReplaceAll[
-                  $CellContext`ExpectedChange[{$CellContext`x1, \
-$CellContext`x2, $CellContext`x3}, $CellContext`A, 
-                   Rationalize[$CellContext`k], $CellContext`PA, 
-                   
-                   Rationalize[$CellContext`\[Mu]]], {$CellContext`x1 + \
-$CellContext`x2 + $CellContext`x3 -> 1}]]], "Text"], 
-             TextCell["Phase portrait and numeric computations", "Section"], 
-             ExpressionCell[$CellContext`figure, TextAlignment -> Center]}, 
-            Visible -> False]; 
-         If[$CellContext`all =!= $Aborted, 
-           SelectionMove[$CellContext`report, After, Notebook]; 
-           If[$CellContext`eigenvalues == {}, 
-             NotebookWrite[$CellContext`report, {
-               Cell[
-               "Exact isolated rest points (eigenvalues were not computed)", 
-                "Section"], 
-               Cell[
-                BoxData[
-                 ToBoxes[
-                  $CellContext`FixSymbols[$CellContext`points]]], "Output"]}], 
-             NotebookWrite[$CellContext`report, {
-               Cell[
-               "Exact isolated rest points and their eigenvalues", "Section"], 
-               Cell[
-                BoxData[
-                 ToBoxes[
-                  MapThread[List, {
-                    $CellContext`FixSymbols[$CellContext`points], \
-$CellContext`eigenvalues}]]], "Output"]}]]; 
-           NotebookWrite[$CellContext`report, {
-              Cell["Exact components of rest points", "Section"], 
-              Cell[
-               BoxData[
-                ToBoxes[
-                 $CellContext`FixSymbols[$CellContext`regions]]], "Output"]}]; 
-           SelectionMove[$CellContext`report, Before, Notebook]; Null]; 
-         SetOptions[$CellContext`report, Visible -> True]; 
-         SetSelectedNotebook[$CellContext`report]; Null], $CellContext`Smith[
+         Null], $CellContext`FixSymbols[
+         Pattern[$CellContext`expression, 
+          Blank[]]] := ReplaceAll[$CellContext`expression, {Condition[
+            Pattern[$CellContext`x, 
+             Blank[Symbol]], 
+            StringMatchQ[
+             SymbolName[$CellContext`x], 
+             StringExpression["x", 
+              Blank[], "$", 
+              BlankNullSequence[]]]] :> ToExpression["x" <> Part[
+              Characters[
+               SymbolName[$CellContext`x]], 2]]}], $CellContext`Smith[
          Pattern[$CellContext`x, 
           Blank[]], 
          Pattern[$CellContext`A, 
@@ -18935,8 +18947,7 @@ $CellContext`listedIndex}, Part[$CellContext`x,
                     First[$CellContext`payoffProbPair]}])], \
 $CellContext`listOfPayoffProbPairs]], {$CellContext`j, 
                 1, $CellContext`n}]], $CellContext`payoffPMFs] + 
-          Table[
-           Part[$CellContext`x, $CellContext`i]^2 - 
+          Table[Part[$CellContext`x, $CellContext`i]^2 - 
             Part[$CellContext`x, $CellContext`i], {$CellContext`i, \
 $CellContext`n}]], $CellContext`SBRMin[
          Pattern[$CellContext`x, 
@@ -19310,7 +19321,6 @@ $CellContext`n}]], $CellContext`BEPTwoMin[
           Pattern[$CellContext`trials$, 
            Blank[]], 1]] := 
        Module[{$CellContext`n$ = 
-          
           Length[$CellContext`A$], $CellContext`payoffPMFs$, \
 $CellContext`payoffCDFs$, $CellContext`CDFunctions$, \
 $CellContext`CDStrictFunctions$, $CellContext`PDFunctions$, $CellContext`p$, \
@@ -19440,18 +19450,7 @@ $CellContext`listedIndex$}, (1/($CellContext`n$ - 1)) Total[
 $CellContext`listOfPayoffProbPairs$]]], $CellContext`payoffPMFs$] - Table[
            
            Part[$CellContext`x$, $CellContext`i$], {$CellContext`i$, \
-$CellContext`n$}]], $CellContext`FixSymbols[
-         Pattern[$CellContext`expression, 
-          Blank[]]] := ReplaceAll[$CellContext`expression, {Condition[
-            Pattern[$CellContext`x, 
-             Blank[Symbol]], 
-            StringMatchQ[
-             SymbolName[$CellContext`x], 
-             StringExpression["x", 
-              Blank[], "$", 
-              BlankNullSequence[]]]] :> ToExpression["x" <> Part[
-              Characters[
-               SymbolName[$CellContext`x]], 2]]}], Off[
+$CellContext`n$}]], Off[
          MessageName[Solve, "fdimc"]]; Off[
          MessageName[General, "munfl"]]; Off[
          MessageName[NumberForm, "sigz"]]; $CellContext`ForceNumber[
@@ -19548,33 +19547,33 @@ $CellContext`x2 + $CellContext`x3 -> 1}]]], "Text"],
              Visible -> False]; 
           If[$CellContext`all =!= $Aborted, 
             SelectionMove[$CellContext`report, After, Notebook]; 
-            If[$CellContext`eigenvalues == {}, 
-              NotebookWrite[$CellContext`report, {
-                Cell[
-                "Exact isolated rest points (eigenvalues were not computed)", 
-                 "Section"], 
-                Cell[
-                 BoxData[
-                  ToBoxes[
-                   $CellContext`FixSymbols[$CellContext`points]]], 
-                 "Output"]}], 
-              NotebookWrite[$CellContext`report, {
-                Cell[
-                "Exact isolated rest points and their eigenvalues", 
-                 "Section"], 
-                Cell[
-                 BoxData[
-                  ToBoxes[
-                   MapThread[List, {
+            If[$CellContext`points != {}, If[$CellContext`eigenvalues == {}, 
+                NotebookWrite[$CellContext`report, {
+                  Cell[
+                  "Exact isolated rest points (eigenvalues were not \
+computed)", "Section"], 
+                  Cell[
+                   BoxData[
+                    ToBoxes[
+                    $CellContext`FixSymbols[$CellContext`points]]], 
+                   "Output"]}], 
+                NotebookWrite[$CellContext`report, {
+                  Cell[
+                  "Exact isolated rest points and their eigenvalues", 
+                   "Section"], 
+                  Cell[
+                   BoxData[
+                    ToBoxes[
+                    MapThread[List, {
                     $CellContext`FixSymbols[$CellContext`points], \
-$CellContext`eigenvalues}]]], "Output"]}]]; 
-            NotebookWrite[$CellContext`report, {
-               Cell["Exact components of rest points", "Section"], 
-               Cell[
-                BoxData[
-                 ToBoxes[
-                  $CellContext`FixSymbols[$CellContext`regions]]], 
-                "Output"]}]; 
+$CellContext`eigenvalues}]]], "Output"]}]]; Null]; 
+            If[$CellContext`regions != {}, NotebookWrite[$CellContext`report, {
+                 Cell["Exact components of rest points", "Section"], 
+                 Cell[
+                  BoxData[
+                   ToBoxes[
+                    $CellContext`FixSymbols[$CellContext`regions]]], 
+                  "Output"]}]; Null]; 
             SelectionMove[$CellContext`report, Before, Notebook]; Null]; 
           SetOptions[$CellContext`report, Visible -> True]; 
           SetSelectedNotebook[$CellContext`report]; 
@@ -19662,7 +19661,7 @@ $CellContext`two} = $CellContext`l; Piecewise[{{Gray,
    Deployed->True,
    StripOnInput->False],
   Manipulate`InterpretManipulate[1]]], "Output",
- CellLabel->"Out[92]=",ExpressionUUID->"d4a4d890-5c3c-4bdb-911b-dc235b8231a2"],
+ CellLabel->"Out[2]=",ExpressionUUID->"78cb77ea-288f-4ae2-961f-6858455ba757"],
 
 Cell[TextData[{
  "If you find this notebook useful, we would appreciate it if you cited it as \
@@ -20416,8 +20415,8 @@ stiff system suspected.\>\"", "\[IndentingNewLine]", "See", " ",
         RowBox[{"If", " ", "there", " ", "are", " ", "components"}], ",", " ", 
         RowBox[{
         "we", " ", "see", " ", "whether", " ", "they", " ", "can", " ", 
-         "aborb", " ", "any", " ", "adjacent", " ", "points"}]}], " ", "*)"}],
-       "\[IndentingNewLine]", 
+         "absorb", " ", "any", " ", "adjacent", " ", "points"}]}], " ", 
+       "*)"}], "\[IndentingNewLine]", 
       RowBox[{"If", "[", 
        RowBox[{
         RowBox[{
@@ -22693,33 +22692,38 @@ Assortment\>\"", ",", "\"\<Title\>\""}], "]"}], ",", "\[IndentingNewLine]",
              "\[IndentingNewLine]", 
              RowBox[{"If", "[", 
               RowBox[{
-               RowBox[{"eigenvalues", "\[Equal]", 
+               RowBox[{"points", "!=", 
                 RowBox[{"{", "}"}]}], ",", "\[IndentingNewLine]", 
-               RowBox[{"NotebookWrite", "[", 
-                RowBox[{"report", ",", 
-                 RowBox[{"{", "\[IndentingNewLine]", 
-                  RowBox[{
-                   RowBox[{"Cell", "[", 
+               RowBox[{
+                RowBox[{"If", "[", 
+                 RowBox[{
+                  RowBox[{"eigenvalues", "\[Equal]", 
+                   RowBox[{"{", "}"}]}], ",", "\[IndentingNewLine]", 
+                  RowBox[{"NotebookWrite", "[", 
+                   RowBox[{"report", ",", 
+                    RowBox[{"{", "\[IndentingNewLine]", 
+                    RowBox[{
+                    RowBox[{"Cell", "[", 
                     RowBox[{
                     "\"\<Exact isolated rest points (eigenvalues were not \
 computed)\>\"", ",", "\"\<Section\>\""}], "]"}], ",", "\[IndentingNewLine]", 
-                   RowBox[{"Cell", "[", 
+                    RowBox[{"Cell", "[", 
                     RowBox[{
                     RowBox[{"BoxData", "@", 
                     RowBox[{"ToBoxes", "@", 
                     RowBox[{"FixSymbols", "[", "points", "]"}]}]}], ",", 
                     "\"\<Output\>\""}], "]"}]}], "\[IndentingNewLine]", 
-                  "}"}]}], "]"}], "\[IndentingNewLine]", ",", 
-               "\[IndentingNewLine]", 
-               RowBox[{"NotebookWrite", "[", 
-                RowBox[{"report", ",", 
-                 RowBox[{"{", "\[IndentingNewLine]", 
-                  RowBox[{
-                   RowBox[{"Cell", "[", 
+                    "}"}]}], "]"}], "\[IndentingNewLine]", ",", 
+                  "\[IndentingNewLine]", 
+                  RowBox[{"NotebookWrite", "[", 
+                   RowBox[{"report", ",", 
+                    RowBox[{"{", "\[IndentingNewLine]", 
+                    RowBox[{
+                    RowBox[{"Cell", "[", 
                     RowBox[{
                     "\"\<Exact isolated rest points and their \
 eigenvalues\>\"", ",", "\"\<Section\>\""}], "]"}], ",", "\[IndentingNewLine]", 
-                   RowBox[{"Cell", "[", 
+                    RowBox[{"Cell", "[", 
                     RowBox[{
                     RowBox[{"BoxData", "@", 
                     RowBox[{"ToBoxes", "@", 
@@ -22730,23 +22734,29 @@ eigenvalues\>\"", ",", "\"\<Section\>\""}], "]"}], ",", "\[IndentingNewLine]",
                     RowBox[{"FixSymbols", "[", "points", "]"}], ",", 
                     "eigenvalues"}], "}"}]}], "]"}]}]}], ",", 
                     "\"\<Output\>\""}], "]"}]}], "\[IndentingNewLine]", 
-                  "}"}]}], "]"}]}], "\[IndentingNewLine]", "]"}], ";", 
-             "\[IndentingNewLine]", 
-             RowBox[{"NotebookWrite", "[", 
-              RowBox[{"report", ",", 
-               RowBox[{"{", "\[IndentingNewLine]", 
-                RowBox[{
-                 RowBox[{"Cell", "[", 
-                  RowBox[{
-                  "\"\<Exact components of rest points\>\"", ",", 
-                   "\"\<Section\>\""}], "]"}], ",", "\[IndentingNewLine]", 
-                 RowBox[{"Cell", "[", 
-                  RowBox[{
-                   RowBox[{"BoxData", "@", 
+                    "}"}]}], "]"}]}], "\[IndentingNewLine]", "]"}], ";"}]}], 
+              "\[IndentingNewLine]", "]"}], ";", "\[IndentingNewLine]", 
+             RowBox[{"If", "[", 
+              RowBox[{
+               RowBox[{"regions", "!=", 
+                RowBox[{"{", "}"}]}], ",", "\[IndentingNewLine]", 
+               RowBox[{
+                RowBox[{"NotebookWrite", "[", 
+                 RowBox[{"report", ",", 
+                  RowBox[{"{", "\[IndentingNewLine]", 
+                   RowBox[{
+                    RowBox[{"Cell", "[", 
+                    RowBox[{
+                    "\"\<Exact components of rest points\>\"", ",", 
+                    "\"\<Section\>\""}], "]"}], ",", "\[IndentingNewLine]", 
+                    RowBox[{"Cell", "[", 
+                    RowBox[{
+                    RowBox[{"BoxData", "@", 
                     RowBox[{"ToBoxes", "@", 
                     RowBox[{"FixSymbols", "[", "regions", "]"}]}]}], ",", 
-                   "\"\<Output\>\""}], "]"}]}], "\[IndentingNewLine]", 
-                "}"}]}], "]"}], ";", "\[IndentingNewLine]", 
+                    "\"\<Output\>\""}], "]"}]}], "\[IndentingNewLine]", 
+                   "}"}]}], "]"}], ";"}]}], "\[IndentingNewLine]", "]"}], ";",
+              "\[IndentingNewLine]", 
              RowBox[{"SelectionMove", "[", 
               RowBox[{"report", ",", "Before", ",", "Notebook"}], "]"}], 
              ";"}]}], "\[IndentingNewLine]", "]"}], ";", 
@@ -22939,7 +22949,7 @@ eigenvalues\>\"", ",", "\"\<Section\>\""}], "]"}], ",", "\[IndentingNewLine]",
               "\[IndentingNewLine]", "}"}], ",", "Gray"}], "]"}]}]}], 
          "\[IndentingNewLine]", "]"}]}]}], ";"}], "\[IndentingNewLine]", 
      "\[IndentingNewLine]", ")"}]}]}], "\[IndentingNewLine]", "]"}]], "Input",
- CellLabel->"In[92]:=",ExpressionUUID->"ebe497d7-c6bb-4946-9a6d-3dd577d63d4d"]
+ CellLabel->"In[2]:=",ExpressionUUID->"ebe497d7-c6bb-4946-9a6d-3dd577d63d4d"]
 }, Closed]]
 },
 ScreenStyleEnvironment->"Working",
@@ -22947,7 +22957,7 @@ CellGrouping->Manual,
 WindowSize->{1352, 741},
 WindowMargins->{{-1542, Automatic}, {-90, Automatic}},
 TrackCellChangeTimes->False,
-Magnification:>1.25 Inherited,
+Magnification:>1.5 Inherited,
 FrontEndVersion->"14.0 for Mac OS X ARM (64-bit) (December 12, 2023)",
 StyleDefinitions->FrontEnd`FileName[{"Creative"}, "NaturalColor.nb", 
   CharacterEncoding -> "UTF-8"],
@@ -22965,64 +22975,64 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[1257, 32, 128, 0, 76, "Title",ExpressionUUID->"be2ab95f-49ca-4d64-983e-6549390d65ef"],
-Cell[1388, 34, 630, 20, 49, "Subtitle",ExpressionUUID->"c414d9db-7737-4bde-8abd-eaa0928aedb2"],
-Cell[2021, 56, 781, 22, 62, "Text",ExpressionUUID->"73c625d9-c929-477d-869c-c28f423133fc"]
+Cell[1257, 32, 128, 0, 91, "Title",ExpressionUUID->"be2ab95f-49ca-4d64-983e-6549390d65ef"],
+Cell[1388, 34, 630, 20, 57, "Subtitle",ExpressionUUID->"c414d9db-7737-4bde-8abd-eaa0928aedb2"],
+Cell[2021, 56, 781, 22, 75, "Text",ExpressionUUID->"73c625d9-c929-477d-869c-c28f423133fc"]
 }, Open  ]],
-Cell[2817, 81, 1113833, 19583, 757, "Output",ExpressionUUID->"d4a4d890-5c3c-4bdb-911b-dc235b8231a2"],
-Cell[1116653, 19666, 541, 11, 86, "Text",ExpressionUUID->"c1d82612-7b36-4034-b445-73a6d33d6648"],
+Cell[2817, 81, 1113896, 19582, 911, "Output",ExpressionUUID->"78cb77ea-288f-4ae2-961f-6858455ba757"],
+Cell[1116716, 19665, 541, 11, 103, "Text",ExpressionUUID->"c1d82612-7b36-4034-b445-73a6d33d6648"],
 Cell[CellGroupData[{
-Cell[1117219, 19681, 146, 3, 92, "Section",ExpressionUUID->"e5b48c76-9ef9-435c-93ae-347850a12596",
+Cell[1117282, 19680, 146, 3, 110, "Section",ExpressionUUID->"e5b48c76-9ef9-435c-93ae-347850a12596",
  CellGroupingRules->{"SectionGrouping", Inherited}],
-Cell[1117368, 19686, 1415, 22, 228, "Text",ExpressionUUID->"8c845bcb-a751-4dec-8482-ce147cb1ad0b"],
+Cell[1117431, 19685, 1415, 22, 360, "Text",ExpressionUUID->"8c845bcb-a751-4dec-8482-ce147cb1ad0b"],
 Cell[CellGroupData[{
-Cell[1118808, 19712, 87, 0, 44, "Subsection",ExpressionUUID->"590dddd8-31a9-4c5f-b4c8-2bf175fb5cbb"],
+Cell[1118871, 19711, 87, 0, 52, "Subsection",ExpressionUUID->"590dddd8-31a9-4c5f-b4c8-2bf175fb5cbb"],
 Cell[CellGroupData[{
-Cell[1118920, 19716, 87, 0, 32, "Subsubsection",ExpressionUUID->"c076fe37-74af-4c6c-9752-2049e3ce6a44"],
-Cell[1119010, 19718, 1657, 39, 140, "Text",ExpressionUUID->"7d6bdaef-365b-4320-ac7c-966c6db12e1c"]
+Cell[1118983, 19715, 87, 0, 37, "Subsubsection",ExpressionUUID->"c076fe37-74af-4c6c-9752-2049e3ce6a44"],
+Cell[1119073, 19717, 1657, 39, 197, "Text",ExpressionUUID->"7d6bdaef-365b-4320-ac7c-966c6db12e1c"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1120704, 19762, 90, 0, 32, "Subsubsection",ExpressionUUID->"2eaed39b-5511-4ec6-91fc-673e4fd1cbe8"],
-Cell[1120797, 19764, 865, 19, 133, "Text",ExpressionUUID->"43be6ad7-59cb-434b-aebd-390f8849047f"],
-Cell[1121665, 19785, 186, 3, 38, "Item",ExpressionUUID->"6ab3f33f-cfec-4a7f-9dbc-1f09667722da"],
-Cell[1121854, 19790, 189, 3, 38, "Item",ExpressionUUID->"3a792f69-5eba-4f1b-bd84-1ed2c2bf16f6"],
-Cell[1122046, 19795, 666, 11, 137, "Text",ExpressionUUID->"dfa1da6a-897e-4c4d-8df2-3e87a9d56377"]
+Cell[1120767, 19761, 90, 0, 37, "Subsubsection",ExpressionUUID->"2eaed39b-5511-4ec6-91fc-673e4fd1cbe8"],
+Cell[1120860, 19763, 865, 19, 217, "Text",ExpressionUUID->"43be6ad7-59cb-434b-aebd-390f8849047f"],
+Cell[1121728, 19784, 186, 3, 48, "Item",ExpressionUUID->"6ab3f33f-cfec-4a7f-9dbc-1f09667722da"],
+Cell[1121917, 19789, 189, 3, 48, "Item",ExpressionUUID->"3a792f69-5eba-4f1b-bd84-1ed2c2bf16f6"],
+Cell[1122109, 19794, 666, 11, 195, "Text",ExpressionUUID->"dfa1da6a-897e-4c4d-8df2-3e87a9d56377"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1122749, 19811, 169, 3, 32, "Subsubsection",ExpressionUUID->"bfaf77e0-e6d2-4970-b577-864e9e9975b4",
+Cell[1122812, 19810, 169, 3, 37, "Subsubsection",ExpressionUUID->"bfaf77e0-e6d2-4970-b577-864e9e9975b4",
  CellGroupingRules->{"SectionGrouping", Inherited}],
-Cell[1122921, 19816, 662, 17, 63, "Text",ExpressionUUID->"7a73b3c6-6ad5-40f9-b61d-cc385c114f05"],
-Cell[1123586, 19835, 961, 29, 54, "Text",ExpressionUUID->"dc6836c9-62ff-4dcf-ba8e-ccd844a6dd73"]
+Cell[1122984, 19815, 662, 17, 76, "Text",ExpressionUUID->"7a73b3c6-6ad5-40f9-b61d-cc385c114f05"],
+Cell[1123649, 19834, 961, 29, 64, "Text",ExpressionUUID->"dc6836c9-62ff-4dcf-ba8e-ccd844a6dd73"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1124584, 19869, 151, 3, 32, "Subsubsection",ExpressionUUID->"bed87209-639e-4e3a-80bb-89dca27c294f",
+Cell[1124647, 19868, 151, 3, 37, "Subsubsection",ExpressionUUID->"bed87209-639e-4e3a-80bb-89dca27c294f",
  CellGroupingRules->{"SectionGrouping", Inherited}],
-Cell[1124738, 19874, 700, 13, 86, "Text",ExpressionUUID->"26f7cd6e-d2ee-40d9-bc15-744401e7e367"]
+Cell[1124801, 19873, 700, 13, 103, "Text",ExpressionUUID->"26f7cd6e-d2ee-40d9-bc15-744401e7e367"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1125475, 19892, 153, 3, 32, "Subsubsection",ExpressionUUID->"16532bda-d780-4b6b-a32c-2ddb182260e0",
+Cell[1125538, 19891, 153, 3, 37, "Subsubsection",ExpressionUUID->"16532bda-d780-4b6b-a32c-2ddb182260e0",
  CellGroupingRules->{"SectionGrouping", Inherited}],
-Cell[1125631, 19897, 210, 3, 38, "Text",ExpressionUUID->"72322232-5053-4331-bd79-d609f3dfb477"]
+Cell[1125694, 19896, 210, 3, 75, "Text",ExpressionUUID->"72322232-5053-4331-bd79-d609f3dfb477"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1125878, 19905, 155, 3, 32, "Subsubsection",ExpressionUUID->"0d5fd993-f7ad-4edd-b507-cbcbd8c357f9",
+Cell[1125941, 19904, 155, 3, 37, "Subsubsection",ExpressionUUID->"0d5fd993-f7ad-4edd-b507-cbcbd8c357f9",
  CellGroupingRules->{"SectionGrouping", Inherited}],
-Cell[1126036, 19910, 587, 13, 63, "Text",ExpressionUUID->"83f03c40-c369-4224-b6df-6877fab23eea"]
+Cell[1126099, 19909, 587, 13, 104, "Text",ExpressionUUID->"83f03c40-c369-4224-b6df-6877fab23eea"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1126672, 19929, 142, 3, 44, "Subsection",ExpressionUUID->"597b3f87-ed10-4d79-b4a4-749e420985f7",
+Cell[1126735, 19928, 142, 3, 52, "Subsection",ExpressionUUID->"597b3f87-ed10-4d79-b4a4-749e420985f7",
  CellGroupingRules->{"SectionGrouping", Inherited}],
-Cell[1126817, 19934, 958, 14, 181, "Text",ExpressionUUID->"6b7ccf26-cf8a-48fc-aa7a-33705c52788c"]
+Cell[1126880, 19933, 958, 14, 274, "Text",ExpressionUUID->"6b7ccf26-cf8a-48fc-aa7a-33705c52788c"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1127824, 19954, 88, 0, 92, "Section",ExpressionUUID->"55447b59-612e-4591-8e42-22aa94d55bf5"],
-Cell[1127915, 19956, 2446, 51, 798, "Text",ExpressionUUID->"3e570553-cd0b-47f0-bf9b-dcd4a5acb375"]
+Cell[1127887, 19953, 88, 0, 110, "Section",ExpressionUUID->"55447b59-612e-4591-8e42-22aa94d55bf5"],
+Cell[1127978, 19955, 2446, 51, 957, "Text",ExpressionUUID->"3e570553-cd0b-47f0-bf9b-dcd4a5acb375"]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[1130398, 20012, 85, 0, 53, "Section",ExpressionUUID->"d7fc9b4c-924e-445b-8538-aebcffdbf017"],
-Cell[1130486, 20014, 131467, 2927, 13978, "Input",ExpressionUUID->"ebe497d7-c6bb-4946-9a6d-3dd577d63d4d"]
+Cell[1130461, 20011, 85, 0, 63, "Section",ExpressionUUID->"d7fc9b4c-924e-445b-8538-aebcffdbf017"],
+Cell[1130549, 20013, 132011, 2938, 18479, "Input",ExpressionUUID->"ebe497d7-c6bb-4946-9a6d-3dd577d63d4d"]
 }, Closed]]
 }
 ]
