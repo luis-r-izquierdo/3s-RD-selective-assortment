@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12727268.svg)](https://doi.org/10.5281/zenodo.12727268)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12763923.svg)](https://doi.org/10.5281/zenodo.12763923)
 
 # 3s-RD-selective-assortment
 
@@ -8,6 +8,6 @@ To run this notebook, you may use the free [Wolfram Player](https://www.wolfram.
 
 If you use this notebook in a publication, we would appreciate it if you could cite it as:
 
-Izquierdo, L.R., Izquierdo, S.S. & Hauert, C. (2024). 3-strategy Replicator Dynamics with Selective Assortment. Software. DOI: [10.5281/zenodo.12727268](https://doi.org/10.5281/zenodo.12727268). 
+Izquierdo, L.R., Izquierdo, S.S. & Hauert, C. (2024). 3-strategy Replicator Dynamics with Selective Assortment. Software. DOI: [10.5281/zenodo.12763923](https://doi.org/10.5281/zenodo.12763923). 
 
 [Luis R. Izquierdo](http://luis.izqui.org), [Segismundo S. Izquierdo](http://segis.izqui.org) & [Christoph Hauert](https://personal.math.ubc.ca/~hauert/)
